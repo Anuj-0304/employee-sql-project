@@ -46,5 +46,5 @@ README.md – project documentation
 2. Execute data.sql
 3. Run queries from queries.sql
 
-Author
+Author : 
 Anuj Jaiswal
